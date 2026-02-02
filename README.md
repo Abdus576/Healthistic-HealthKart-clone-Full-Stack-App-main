@@ -117,10 +117,7 @@ We're a young start-up of around 400 people that work for your needs in fitness 
 
 # External CSS Library
 -Chakra UI
-
-#Front-End Deployment - vercel
-#Back-End Deployment - Cyclic 
-
+ 
 # Folder Structure and Packages
 ==>Before you start:
    - I have already created all the folders which you will need during journey.
