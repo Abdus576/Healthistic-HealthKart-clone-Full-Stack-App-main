@@ -189,11 +189,6 @@ Step-2- install node_modules using `$cd npm install`
             -$git pull origin <branch-name>    (without angle brackets)
 
 
-=> Some helpful Tools during development :<br />
-    - Chakra-UI - https://chakra-ui.com/<br />
-    - Chakra-Templets - https://chakra-templates.dev/#<br />
-    - String Builder - https://codebeautify.org/string-builder<br />
-    - Chat-gpt - https://chat.openai.com/chat<br />
  
 
 # DATABASE SCHEMAS
@@ -208,9 +203,9 @@ Step-2- install node_modules using `$cd npm install`
                 |-----> `/user/register`  //for registering user
 
                    {
-                        name:"Faisal",
-                        email:"mujtabafaisal944.fkgmail.com",
-                        password:"12234",
+                        name:"Abdus",
+                        email:"abdus34783gmail.com",
+                        password:"34343",
                         profile:(optional)
                     }
 -------------------------------------------------------------------------------------------------------
