@@ -1,0 +1,25 @@
+.container {
+  height: 500px;
+     display: grid;
+     grid-template-columns: 20% 70%;
+    column-gap: 5px;
+    margin:  auto;
+    justify-content: space-between;
+border: 5px solid red ;
+     width: 80%;
+     margin: auto;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .container {
+      max-width: 600px;
+     
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .container {
+      max-width: 400px;
+      /* grid-template-columns: 50% 50%; */
+    }
+  }
