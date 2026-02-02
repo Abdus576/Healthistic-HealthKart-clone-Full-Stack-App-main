@@ -151,11 +151,6 @@ We're a young start-up of around 400 people that work for your needs in fitness 
    - Use `constants` folder to create all the constants (Helps you reducing hard-coding)(Most recommended)
 
 
-
-
-   <!-- Cloning related and Getting started related stuffs -->
-=> Clone the directory to start work `$git clone  https://github.com/faisalinfinity/cuddly-smoke-9747.git`
-
 => Ok guys here are the some basic instruction before you start , If you are here you are successfully pulled the code and you are ready to type you first command in terminal.
 
 Step-1- Navigate to proeject directory using `$cd remarkable-veil-524`
@@ -214,8 +209,8 @@ Step-2- install node_modules using `$cd npm install`
 
                    {
                        
-                        email:"mujtabafaisal944.fkgmail.com",
-                        password:"12234",
+                        email:"abdus34783gmail.com",
+                        password:"34343",
                        
                     }
 
